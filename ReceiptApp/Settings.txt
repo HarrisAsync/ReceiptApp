@@ -1,0 +1,3 @@
+subKey*4fcb9d393390442bb8bd64a63df13fd1
+serverAddress*https://australiaeast.api.cognitive.microsoft.com/vision/v1.0/ocr
+UpdatedSettings*T
